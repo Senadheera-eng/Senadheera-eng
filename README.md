@@ -12,13 +12,11 @@
 
 ```javascript
 const lahiru = {
-  pronouns: "he/him",
   location: "Sri Lanka 🇱🇰",
-  role: "Software Engineer",
   languages: ["JavaScript", "Python", "Java", "C++"],
   interests: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
   currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log and I'm proud of it! 😄"
+  funFact: "I think I am good at video games! 😄"
 };
 ```
 
@@ -168,16 +166,16 @@ AWS         ██████████████████████�
 [![Repo Card](https://github.com/Senadheera-eng/Growmate)
 
 **Tech Stack:** Flutter, Dart,Firebase,YOLO  
-**Description:** Brief description of your amazing project and its key features.
+**Description:** Plant decease detector app with care tips.
 
 </td>
 <td width="50%">
 
 ### 🌟 Civic Link
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lahiru-Senadheera&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Lahiru-Senadheera/project-name-2)
+[![Repo Card](https://github.com/Senadheera-eng/civic_link)
 
 **Tech Stack:** Python, Django, PostgreSQL  
-**Description:** Brief description of your second project and what makes it special.
+**Description:** A community problem reporting protocol app
 
 </td>
 </tr>
