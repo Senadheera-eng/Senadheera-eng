@@ -111,55 +111,6 @@ const lahiru = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senadheera-eng&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=false&border_color=58a6ff&custom_title=📊%20Contribution%20Activity" />
-</div>
-
-## 🔥 My Skill Levels
-
-<div align="center">
-
-### **Frontend Development**
-```
-JavaScript     ████████████████████████████████████████ 100%
-React          ████████████████████████████████████████ 95%
-HTML/CSS       ████████████████████████████████████████ 98%
-TypeScript     ████████████████████████████████████░░░░ 85%
-Vue.js         ██████████████████████████████░░░░░░░░░░ 75%
-```
-
-### **Backend Development**
-```
-Node.js        ████████████████████████████████████████ 90%
-Python         ████████████████████████████████████░░░░ 85%
-Java           ████████████████████████████████░░░░░░░░ 80%
-Express.js     ████████████████████████████████████████ 88%
-Django         ██████████████████████████████░░░░░░░░░░ 70%
-```
-
-### **Database & Tools**
-```
-MySQL          ████████████████████████████████████░░░░ 82%
-MongoDB        ████████████████████████████████████████ 87%
-Git            ████████████████████████████████████████ 95%
-Docker         ██████████████████████████████░░░░░░░░░░ 75%
-AWS            ████████████████████████████░░░░░░░░░░░░ 68%
-```
-
-</div>
-
-<br/>
-
-## 🎯 Featured Projects
-
-<div align="center">
-  
-| 🚀 **Project** | 🛠️ **Tech Stack** | 📝 **Description** |
-|----------------|-------------------|-------------------|
-| **E-Commerce Platform** | React, Node.js, MongoDB | Full-stack e-commerce solution with modern UI |
-| **Mobile Fitness App** | Flutter, Dart, Firebase | Cross-platform fitness tracking application |
-| **AI Chat Bot** | Python, Django, PostgreSQL | Intelligent chatbot with ML integration |
-| **Portfolio Website** | React, TypeScript, CSS | Personal portfolio with modern design |
-
-</div>
 
 ## 🎮 When I'm Not Coding
 
