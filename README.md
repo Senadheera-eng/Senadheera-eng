@@ -165,9 +165,9 @@ AWS         ██████████████████████�
 <td width="50%">
 
 ### 🌟 Grow Mate
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lahiru-Senadheera&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Lahiru-Senadheera/project-name)
+[![Repo Card](https://github.com/Senadheera-eng/Growmate)
 
-**Tech Stack:** React, Node.js, MongoDB  
+**Tech Stack:** Flutter, Dart,Firebase,YOLO  
 **Description:** Brief description of your amazing project and its key features.
 
 </td>
